@@ -1,0 +1,158 @@
+{
+ "CER": 0.11111960979283483,
+ "WER": 0.4154140713388783,
+ "CER_sem_rasura": 0.10491936947128147,
+ "CER_com_rasura": 0.15473339215933443,
+ "per_class": {
+  "letra s/ acento": 0.102839143258705,
+  "espaço": 0.016682311921684324,
+  "pontuação/símbolo": 0.10548373348487002,
+  "acento/cedilha": 0.12232729024875022,
+  "dígito": 0.3689516129032258,
+  "_diacritic_only_subs": 571,
+  "_n": {
+   "letra s/ acento": 404136,
+   "espaço": 74570,
+   "pontuação/símbolo": 14078,
+   "acento/cedilha": 16603,
+   "dígito": 496
+  }
+ },
+ "spelling": {
+  "acc_IV": 0.6193090445294738,
+  "acc_ERR": 0.2014388489208633,
+  "overcorr": 0.11510791366906475,
+  "n_IV": 72132,
+  "n_ERR": 417,
+  "examples": [
+   [
+    "recibido",
+    "recebido"
+   ],
+   [
+    "descutir",
+    "discuti"
+   ],
+   [
+    "víncula",
+    "vincula"
+   ],
+   [
+    "naturalistica",
+    "naturalística"
+   ],
+   [
+    "tabú",
+    "tás"
+   ],
+   [
+    "cidadamia",
+    "cidadania"
+   ],
+   [
+    "fornerer",
+    "fornecer"
+   ],
+   [
+    "territorials",
+    "de"
+   ],
+   [
+    "estigna",
+    "estigma"
+   ],
+   [
+    "paradigina",
+    "paradigma"
+   ],
+   [
+    "expresão",
+    "expressão"
+   ],
+   [
+    "yoga",
+    "oga"
+   ],
+   [
+    "apciem",
+    "apoiem"
+   ],
+   [
+    "perpectiva",
+    "perspectivas"
+   ],
+   [
+    "decenças",
+    "doenças"
+   ],
+   [
+    "why",
+    "era"
+   ],
+   [
+    "apartir",
+    "Torcia"
+   ],
+   [
+    "tenia",
+    "do"
+   ],
+   [
+    "enraízado",
+    "enraizado"
+   ],
+   [
+    "imposibita",
+    "a"
+   ],
+   [
+    "individuos",
+    "indivíduos"
+   ],
+   [
+    "estigmalização",
+    "da"
+   ],
+   [
+    "contexta",
+    "contesta"
+   ],
+   [
+    "deprende",
+    "depreende"
+   ],
+   [
+    "democratico",
+    "o"
+   ],
+   [
+    "imgressos",
+    "ingressos"
+   ],
+   [
+    "neofacismo",
+    "mo"
+   ],
+   [
+    "sen",
+    "se"
+   ],
+   [
+    "homen",
+    "homem"
+   ],
+   [
+    "covid",
+    "a"
+   ]
+  ]
+ },
+ "model": "htrvt",
+ "frac": 1.0,
+ "n_train": 19224,
+ "params_M": 5.903436,
+ "best_val_cer": 0.11316744337163534,
+ "epochs_run": 40,
+ "train_time_min": 131.9182413260142,
+ "cpu_ms_per_line": 163.13713515999552
+}

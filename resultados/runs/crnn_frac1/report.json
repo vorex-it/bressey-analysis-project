@@ -1,0 +1,158 @@
+{
+ "CER": 0.0388677402462918,
+ "WER": 0.15668941852224832,
+ "CER_sem_rasura": 0.03524267560296493,
+ "CER_com_rasura": 0.06436720030253372,
+ "per_class": {
+  "letra s/ acento": 0.03698259991685967,
+  "espaço": 0.006892852353493362,
+  "pontuação/símbolo": 0.043258985651370936,
+  "acento/cedilha": 0.04161898452086972,
+  "dígito": 0.15524193548387097,
+  "_diacritic_only_subs": 219,
+  "_n": {
+   "letra s/ acento": 404136,
+   "espaço": 74570,
+   "pontuação/símbolo": 14078,
+   "acento/cedilha": 16603,
+   "dígito": 496
+  }
+ },
+ "spelling": {
+  "acc_IV": 0.8682138302001885,
+  "acc_ERR": 0.2685851318944844,
+  "overcorr": 0.34292565947242204,
+  "n_IV": 72132,
+  "n_ERR": 417,
+  "examples": [
+   [
+    "comprendido",
+    "compreendido"
+   ],
+   [
+    "recibido",
+    "recebido"
+   ],
+   [
+    "preconceotuoso",
+    "preconceituoso"
+   ],
+   [
+    "edificio",
+    "edifício"
+   ],
+   [
+    "emtre",
+    "entre"
+   ],
+   [
+    "parquiátricos",
+    "psiquiátricos"
+   ],
+   [
+    "dequela",
+    "daquele"
+   ],
+   [
+    "discursão",
+    "discussão"
+   ],
+   [
+    "precológicos",
+    "psicológicos"
+   ],
+   [
+    "trancender",
+    "transcender"
+   ],
+   [
+    "flusso",
+    "fluxo"
+   ],
+   [
+    "equilibrio",
+    "equilíbrio"
+   ],
+   [
+    "experciências",
+    "experiências"
+   ],
+   [
+    "impreceção",
+    "imprecisão"
+   ],
+   [
+    "vaniageres",
+    "vantagens"
+   ],
+   [
+    "consequênciais",
+    "consequências"
+   ],
+   [
+    "descutir",
+    "discutir"
+   ],
+   [
+    "víncula",
+    "vincula"
+   ],
+   [
+    "naturalistica",
+    "naturalística"
+   ],
+   [
+    "fucral",
+    "fulcral"
+   ],
+   [
+    "discusão",
+    "discussão"
+   ],
+   [
+    "enorma",
+    "norma"
+   ],
+   [
+    "edoenças",
+    "doenças"
+   ],
+   [
+    "derespeito",
+    "desrespeito"
+   ],
+   [
+    "asociado",
+    "associado"
+   ],
+   [
+    "tabú",
+    "tabi"
+   ],
+   [
+    "diretto",
+    "direito"
+   ],
+   [
+    "cidadamia",
+    "cidadania"
+   ],
+   [
+    "gilberto",
+    "Gilberto"
+   ],
+   [
+    "categorega",
+    "categoriza"
+   ]
+  ]
+ },
+ "model": "crnn",
+ "frac": 1.0,
+ "n_train": 19224,
+ "params_M": 10.072428,
+ "best_val_cer": 0.038229261481303276,
+ "epochs_run": 40,
+ "train_time_min": 88.70340784390767,
+ "cpu_ms_per_line": 289.33125381000536
+}

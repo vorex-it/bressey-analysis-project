@@ -1,0 +1,159 @@
+{
+ "CER": 0.6825938499616578,
+ "WER": 1.1071450772692801,
+ "CER_sem_rasura": 0.6808401972138283,
+ "CER_com_rasura": 0.694929408798689,
+ "per_class": {
+  "letra s/ acento": 0.61064592117505,
+  "espaço": 0.18744803540297708,
+  "pontuação/símbolo": 0.6088933087086233,
+  "acento/cedilha": 1.0,
+  "dígito": 0.592741935483871,
+  "_diacritic_only_subs": 1736,
+  "_n": {
+   "letra s/ acento": 404136,
+   "espaço": 74570,
+   "pontuação/símbolo": 14078,
+   "acento/cedilha": 16603,
+   "dígito": 496
+  }
+ },
+ "spelling": {
+  "acc_IV": 0.06269062274718572,
+  "acc_ERR": 0.009592326139088728,
+  "overcorr": 0.2158273381294964,
+  "n_IV": 72132,
+  "n_ERR": 417,
+  "examples": [
+   [
+    "papeís",
+    "manager"
+   ],
+   [
+    "edificio",
+    "to"
+   ],
+   [
+    "parquiátricos",
+    "more"
+   ],
+   [
+    "recuração",
+    "to"
+   ],
+   [
+    "impreceção",
+    "as"
+   ],
+   [
+    "consequênciais",
+    "g"
+   ],
+   [
+    "prontúario",
+    "particular"
+   ],
+   [
+    "socieda",
+    "a"
+   ],
+   [
+    "víncula",
+    "simula"
+   ],
+   [
+    "fucral",
+    "s"
+   ],
+   [
+    "afestá",
+    "faste"
+   ],
+   [
+    "errônios",
+    "tendencies"
+   ],
+   [
+    "discusão",
+    "is"
+   ],
+   [
+    "diretto",
+    "s"
+   ],
+   [
+    "gilberto",
+    "grade"
+   ],
+   [
+    "ágatha",
+    "for"
+   ],
+   [
+    "socioeducacional",
+    "to"
+   ],
+   [
+    "folta",
+    "falta"
+   ],
+   [
+    "digonéstico",
+    "a"
+   ],
+   [
+    "yoga",
+    "a"
+   ],
+   [
+    "destinguir",
+    "in"
+   ],
+   [
+    "inserí",
+    "s"
+   ],
+   [
+    "nietzsche",
+    "c"
+   ],
+   [
+    "magrid",
+    "for"
+   ],
+   [
+    "ambitos",
+    "to"
+   ],
+   [
+    "perpectiva",
+    "perspectives"
+   ],
+   [
+    "desimportância",
+    "designer"
+   ],
+   [
+    "contempora",
+    "to"
+   ],
+   [
+    "reasons",
+    "anti"
+   ],
+   [
+    "longividade",
+    "to"
+   ]
+  ]
+ },
+ "model": "trocr_zeroshot",
+ "frac": 1.0,
+ "n_train": 0,
+ "params_M": 61.596672,
+ "best_val_cer": 1000000000.0,
+ "epochs_run": 0,
+ "train_time_min": 4.76837158203125e-08,
+ "beams": 4,
+ "cpu_ms_per_line": 1561.4369067333314
+}

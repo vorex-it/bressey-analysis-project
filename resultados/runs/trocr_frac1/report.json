@@ -1,0 +1,159 @@
+{
+ "CER": 0.06434025060651169,
+ "WER": 0.18381758730869172,
+ "CER_sem_rasura": 0.057959002641016624,
+ "CER_com_rasura": 0.10922727845707803,
+ "per_class": {
+  "letra s/ acento": 0.062446800087099394,
+  "espaço": 0.00897143623441062,
+  "pontuação/símbolo": 0.05767864753516124,
+  "acento/cedilha": 0.08191290730590857,
+  "dígito": 0.17137096774193547,
+  "_diacritic_only_subs": 337,
+  "_n": {
+   "letra s/ acento": 404136,
+   "espaço": 74570,
+   "pontuação/símbolo": 14078,
+   "acento/cedilha": 16603,
+   "dígito": 496
+  }
+ },
+ "spelling": {
+  "acc_IV": 0.8499001829978373,
+  "acc_ERR": 0.1630695443645084,
+  "overcorr": 0.4724220623501199,
+  "n_IV": 72132,
+  "n_ERR": 417,
+  "examples": [
+   [
+    "comprendido",
+    "compreendido"
+   ],
+   [
+    "recibido",
+    "revelado"
+   ],
+   [
+    "preconceotuoso",
+    "preconceituoso"
+   ],
+   [
+    "comprensão",
+    "compreensão"
+   ],
+   [
+    "emtre",
+    "entre"
+   ],
+   [
+    "parquiátricos",
+    "psiquiátricos"
+   ],
+   [
+    "recuração",
+    "população"
+   ],
+   [
+    "discursão",
+    "discussão"
+   ],
+   [
+    "precológicos",
+    "psicológicos"
+   ],
+   [
+    "trasidas",
+    "brasidos"
+   ],
+   [
+    "trancender",
+    "transcender"
+   ],
+   [
+    "girlfriend",
+    "mendo"
+   ],
+   [
+    "flusso",
+    "fluxo"
+   ],
+   [
+    "experciências",
+    "experiências"
+   ],
+   [
+    "frankfurt",
+    "Frankfurt"
+   ],
+   [
+    "volores",
+    "valores"
+   ],
+   [
+    "men",
+    "meio"
+   ],
+   [
+    "consequênciais",
+    "consequências"
+   ],
+   [
+    "descutir",
+    "direito"
+   ],
+   [
+    "naturalistica",
+    "naturalística"
+   ],
+   [
+    "fucral",
+    "fulcral"
+   ],
+   [
+    "afestá",
+    "afastá"
+   ],
+   [
+    "discusão",
+    "discussão"
+   ],
+   [
+    "enorma",
+    "uma"
+   ],
+   [
+    "derespeito",
+    "desrespeito"
+   ],
+   [
+    "asociado",
+    "associado"
+   ],
+   [
+    "tabú",
+    "tal"
+   ],
+   [
+    "diretto",
+    "direito"
+   ],
+   [
+    "garantía",
+    "garantia"
+   ],
+   [
+    "tdah",
+    "total"
+   ]
+  ]
+ },
+ "model": "trocr",
+ "frac": 1.0,
+ "n_train": 19224,
+ "params_M": 61.596672,
+ "best_val_cer": 0.06687358916478556,
+ "epochs_run": 8,
+ "train_time_min": 44.02665899594625,
+ "beams": 4,
+ "cpu_ms_per_line": 2108.5027106333355
+}

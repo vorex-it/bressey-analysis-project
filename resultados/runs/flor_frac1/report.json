@@ -1,0 +1,158 @@
+{
+ "CER": 0.05764851936620754,
+ "WER": 0.22756828664851492,
+ "CER_sem_rasura": 0.05304433727059108,
+ "CER_com_rasura": 0.09003529560065548,
+ "per_class": {
+  "letra s/ acento": 0.05691895797454322,
+  "espaço": 0.011264583612712887,
+  "pontuação/símbolo": 0.0674811763034522,
+  "acento/cedilha": 0.06016984882250196,
+  "dígito": 0.24193548387096775,
+  "_diacritic_only_subs": 298,
+  "_n": {
+   "letra s/ acento": 404136,
+   "espaço": 74570,
+   "pontuação/símbolo": 14078,
+   "acento/cedilha": 16603,
+   "dígito": 496
+  }
+ },
+ "spelling": {
+  "acc_IV": 0.8000332723340542,
+  "acc_ERR": 0.2637889688249401,
+  "overcorr": 0.22302158273381295,
+  "n_IV": 72132,
+  "n_ERR": 417,
+  "examples": [
+   [
+    "filosófo",
+    "o"
+   ],
+   [
+    "recibido",
+    "recebido"
+   ],
+   [
+    "preconceotuoso",
+    "preconceituoso"
+   ],
+   [
+    "edificio",
+    "edifício"
+   ],
+   [
+    "emtre",
+    "entre"
+   ],
+   [
+    "parquiátricos",
+    "psiquiátricos"
+   ],
+   [
+    "flusso",
+    "fluxo"
+   ],
+   [
+    "equilibrio",
+    "equilíbrio"
+   ],
+   [
+    "experciências",
+    "experiências"
+   ],
+   [
+    "impreceção",
+    "imprecisão"
+   ],
+   [
+    "vaniageres",
+    "vantagens"
+   ],
+   [
+    "consequênciais",
+    "consequências"
+   ],
+   [
+    "descutir",
+    "discutir"
+   ],
+   [
+    "samsa",
+    "sansa"
+   ],
+   [
+    "naturalistica",
+    "naturalística"
+   ],
+   [
+    "discusão",
+    "discussão"
+   ],
+   [
+    "tabú",
+    "trai"
+   ],
+   [
+    "diretto",
+    "direito"
+   ],
+   [
+    "oms",
+    "Corsa"
+   ],
+   [
+    "cidadamia",
+    "cidadania"
+   ],
+   [
+    "categorega",
+    "categoriza"
+   ],
+   [
+    "relegavan",
+    "relegavam"
+   ],
+   [
+    "estigna",
+    "estigma"
+   ],
+   [
+    "paradigina",
+    "paradigma"
+   ],
+   [
+    "expresão",
+    "expressão"
+   ],
+   [
+    "turnado",
+    "tunado"
+   ],
+   [
+    "folta",
+    "falto"
+   ],
+   [
+    "yoga",
+    "zoga"
+   ],
+   [
+    "panacéia",
+    "panaceia"
+   ],
+   [
+    "ingnorância",
+    "ignorância"
+   ]
+  ]
+ },
+ "model": "flor",
+ "frac": 1.0,
+ "n_train": 19224,
+ "params_M": 0.976764,
+ "best_val_cer": 0.05787216734168488,
+ "epochs_run": 40,
+ "train_time_min": 27.965669016043346,
+ "cpu_ms_per_line": 81.96698868000567
+}
